@@ -1,0 +1,23 @@
+﻿<Window
+    x:Class="BingoMonitor.CalledNumbers"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:BingoMonitor"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="CalledNumbers"
+    Width="580"
+    Height="414"
+    mc:Ignorable="d">
+    <Grid>
+        <Label
+            x:Name="messageLabel"
+            Width="514"
+            Height="343"
+            Margin="41,32,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content=""
+            FontSize="20" Foreground="Black" />
+    </Grid>
+</Window>

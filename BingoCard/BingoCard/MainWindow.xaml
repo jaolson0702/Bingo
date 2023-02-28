@@ -1,0 +1,323 @@
+﻿<Window
+    x:Class="BingoCard.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:BingoCard"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="500"
+    Height="461"
+    mc:Ignorable="d">
+    <Grid>
+        <Button
+            x:Name="grid25"
+            Width="64"
+            Height="64"
+            Margin="82,350,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid25_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid35"
+            Width="64"
+            Height="64"
+            Margin="151,350,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid35_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid45"
+            Width="64"
+            Height="64"
+            Margin="220,350,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid45_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid55"
+            Width="64"
+            Height="64"
+            Margin="289,350,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid55_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid14"
+            Width="64"
+            Height="64"
+            Margin="13,281,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid14_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid13"
+            Width="64"
+            Height="64"
+            Margin="13,212,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid13_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid12"
+            Width="64"
+            Height="64"
+            Margin="13,143,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid12_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid11"
+            Width="64"
+            Height="64"
+            Margin="13,74,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid11_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid24"
+            Width="64"
+            Height="64"
+            Margin="82,281,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid24_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid34"
+            Width="64"
+            Height="64"
+            Margin="151,281,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid34_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid44"
+            Width="64"
+            Height="64"
+            Margin="220,281,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid44_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid54"
+            Width="64"
+            Height="64"
+            Margin="289,281,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid54_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid23"
+            Width="64"
+            Height="64"
+            Margin="82,212,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid23_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid22"
+            Width="64"
+            Height="64"
+            Margin="82,143,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid22_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid53"
+            Width="64"
+            Height="64"
+            Margin="289,212,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid53_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid43"
+            Width="64"
+            Height="64"
+            Margin="220,212,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid43_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid32"
+            Width="64"
+            Height="64"
+            Margin="151,143,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid32_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid42"
+            Width="64"
+            Height="64"
+            Margin="220,143,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid42_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid52"
+            Width="64"
+            Height="64"
+            Margin="289,143,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid52_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid51"
+            Width="64"
+            Height="64"
+            Margin="289,74,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid51_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid41"
+            Width="64"
+            Height="64"
+            Margin="220,74,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid41_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid31"
+            Width="64"
+            Height="64"
+            Margin="151,74,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid31_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid15"
+            Width="64"
+            Height="64"
+            Margin="13,350,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid15_Click"
+            Content="Button"
+            FontSize="36" />
+        <Button
+            x:Name="grid21"
+            Width="64"
+            Height="64"
+            Margin="82,74,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="grid21_Click"
+            Content="Button"
+            FontSize="36" />
+        <Label
+            x:Name="bLabel"
+            Height="75"
+            Margin="26,0,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="B&#xD;&#xA;"
+            FontSize="48" />
+        <Label
+            x:Name="oLabel"
+            Height="75"
+            Margin="298,-1,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="O&#xA;"
+            FontSize="48" />
+        <Label
+            x:Name="gLabel"
+            Height="75"
+            Margin="231,-1,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="G&#xA;"
+            FontSize="48" />
+        <Label
+            x:Name="nLabel"
+            Height="75"
+            Margin="160,-1,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="N&#xA;"
+            FontSize="48" />
+        <Label
+            x:Name="iLabel"
+            Height="74"
+            Margin="103,0,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="I&#xA;"
+            FontSize="48" />
+        <Button
+            x:Name="clearButton"
+            Width="101"
+            Margin="372,199,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="clearButton_Click"
+            Content="Clear Card"
+            FontSize="20" />
+        <Button
+            x:Name="newCardButton"
+            Width="101"
+            Margin="372,326,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="newCardButton_Click"
+            Content="New Card"
+            FontSize="20" />
+        <CheckBox x:Name="fourCornersCheckBox" Content="Four Corners?" HorizontalAlignment="Left" Margin="376,131,0,0" VerticalAlignment="Top" Checked="fourCornersCheckBox_Checked" Unchecked="fourCornersCheckBox_Unchecked"/>
+        <Button
+            x:Name="grid33"
+            Width="64"
+            Height="64"
+            Margin="151,212,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="FREE"
+            FontSize="24" />
+
+    </Grid>
+</Window>
